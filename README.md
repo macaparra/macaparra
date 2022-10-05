@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macarena</h1>
 
 - 🌱 I’m currently learning **React**
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" alt="macaparra" />
+<img align="right" width="250" src="https://media4.giphy.com/media/SuHXUliWHtK1SwSgyD/giphy.gif" alt="macaparra" />
 
 <h1 align="center">Languages and Tools:</h1>
 
