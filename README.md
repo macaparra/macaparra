@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Macarena</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django and Angular**
 <img align="right" width="250" src="https://media4.giphy.com/media/SuHXUliWHtK1SwSgyD/giphy.gif" alt="macaparra" />
 
 <h1 align="center">Languages and Tools:</h1>
